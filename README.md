@@ -2,6 +2,10 @@
 
 Developing a model to automate coagulant dose in AguaClara treatment plants. 
 
+# Research Advisors
+
+* Jeff Shen (jcs528)
+
 # Members - Spring 2022
 
 * Christopher Chan (cmc455@cornell.edu)
